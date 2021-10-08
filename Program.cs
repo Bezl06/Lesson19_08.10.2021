@@ -16,13 +16,14 @@ namespace MyApp
             string[] symbs = input.Split(nums, StringSplitOptions.RemoveEmptyEntries);
             for (int i = 0; i < symbs.Length; i++)
             {
-                result += symbs[i] switch
+                MyFunc<double> func = symbs[i] switch
                 {
-                    "-" => Sub(double.Parse(nums[i]), double.Parse(nums[i + 1])),
-                    "*" => Mult(double.Parse(nums[i]), double.Parse(nums[i + 1])),
-                    "/" => Div(double.Parse(nums[i]), double.Parse(nums[i + 1])),
-                    _ => Sum(double.Parse(nums[i]), double.Parse(nums[i + 1]))
+                    "-" => Sub,
+                    "*" => Mult,
+                    "/" => Div,
+                    _ => Sum
                 };
+                result += func(double.Parse(nums[i]), double.Parse(nums[i + 1]));
             }
             System.Console.WriteLine($"result : {result}");
         }
