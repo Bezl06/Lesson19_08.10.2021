@@ -1,0 +1,15 @@
+D:\Lessons\VS_Code\Lesson19\bin\Debug\net6.0\Lesson19.exe
+D:\Lessons\VS_Code\Lesson19\bin\Debug\net6.0\Lesson19.deps.json
+D:\Lessons\VS_Code\Lesson19\bin\Debug\net6.0\Lesson19.runtimeconfig.json
+D:\Lessons\VS_Code\Lesson19\bin\Debug\net6.0\Lesson19.dll
+D:\Lessons\VS_Code\Lesson19\bin\Debug\net6.0\ref\Lesson19.dll
+D:\Lessons\VS_Code\Lesson19\bin\Debug\net6.0\Lesson19.pdb
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.csproj.AssemblyReference.cache
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.AssemblyInfoInputs.cache
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.AssemblyInfo.cs
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.csproj.CoreCompileInputs.cache
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.dll
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\ref\Lesson19.dll
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.pdb
+D:\Lessons\VS_Code\Lesson19\obj\Debug\net6.0\Lesson19.genruntimeconfig.cache
